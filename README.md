@@ -10,14 +10,6 @@ Kartičky na precvičovanie 5 testov (646 otázok):
 
 Celá aplikácia je v jedinom súbore `index.html` a otázky sú v ňom priamo vložené. Nepotrebuje server ani internetové pripojenie.
 
-## Zverejnenie na GitHub Pages
-
-1. Na GitHube vytvor nový repozitár, napr. `karticky`.
-2. Nahraj doň súbory `index.html` a `apple-touch-icon.png`: **Add file → Upload files**.
-3. Otvor **Settings → Pages**.
-4. V časti *Build and deployment* nastav **Source: Deploy from a branch**, vetvu **main** a priečinok **/ (root)**. Potom klikni **Save**.
-5. Asi o minútu bude stránka dostupná na `https://<tvoje-meno>.github.io/karticky/`.
-
 ## Na iPhone
 
 V Safari otvor stránku a zvoľ **Zdieľať → Pridať na plochu**. Kartičky sa potom spúšťajú ako samostatná aplikácia s vlastnou ikonou, na výšku aj na šírku.
